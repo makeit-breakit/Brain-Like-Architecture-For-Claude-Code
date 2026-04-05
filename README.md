@@ -36,6 +36,7 @@ A workspace organized like a brain, not a hierarchy.
 3. **No Deep Nesting** — Max 2 levels (like cortex layers)
 4. **Cross-References** — Files link to related regions
 5. **Plasticity** — Structure evolves with use
+6. **Falsification** — Every output is challenged before delivery. The right hemisphere and the falsificator (`automation/falsificator.md`) actively seek what's wrong, missing, or overconfident — not just what supports the conclusion. A finding that survives a genuine attempt to break it is worth keeping.
 
 ## Quick Start
 
